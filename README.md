@@ -1,44 +1,38 @@
-GTA 5 Online Modded Save Game
+# **GTA 5 Online Modded Save Game**
 
-Overview
+## **Übersicht**
+Dieses Repository enthält eine modifizierte Spielstand-Datei für **Grand Theft Auto V (GTA 5) Online**. Der Spielstand umfasst einen hochstufigen Charakter mit enormem In-Game-Vermögen.
 
-This repository contains a modded save game file for Grand Theft Auto V (GTA 5) Online. The save includes a high-level character with an enormous amount of in-game currency.
+## **Funktionen**
+- **Level:** Über 2000
+- **Geld:** Über $15 Milliarden
+- **Vollständig freigeschaltet:** Alle Waffen, Fahrzeuge und Immobilien
+- **Exklusive Items:** Seltene und Event-spezifische Unlocks
 
-Features
+---
 
-Level: 2000+
+## **Installationsanleitung**
+1. Lade die Spielstand-Datei von diesem Repository herunter.
+2. Finde das Verzeichnis deines GTA 5-Spielstands:
+   - **Für Rockstar Games:**  
+     `C:\Program Files\Rockstar Games\Grand Theft Auto V`
+   - **Für Steam und Epic Games:**  
+     Der Pfad kann variieren, siehe Rockstar-Dokumentation.
+3. Sichere deinen Original-Spielstand.
+4. Ersetze den bestehenden Spielstand mit der heruntergeladenen modifizierten Datei.
+5. Platziere die Datei `version.dll` in deinem GTA 5-Verzeichnis.
+6. Starte GTA 5 und viel Spaß!
 
-Money: Over $15 billion
+---
 
-Fully unlocked: All weapons, vehicles, and properties
+## **Haftungsausschluss**
+Diese modifizierte Spielstand-Datei wird **nur zu Bildungs- und Sicherungszwecken** bereitgestellt.  
+Die Verwendung von modifizierten Spielständen in GTA Online kann zu Sperrungen oder Strafen durch Rockstar Games führen.  
+**Benutze sie auf eigenes Risiko!**
 
-Exclusive items: Rare and event-only unlocks
+---
 
-Installation Guide
+## **Support**
+Falls du auf Probleme stößt, öffne ein Ticket im Repository oder kontaktiere mich direkt.
 
-Download the save file from this repository.
-
-Locate your GTA 5 save game directory:
-
-For Rockstar Games: C:\Program Files\Rockstar Games\Grand Theft Auto V
-
-For Steam and Epic Games: Path may vary, check Rockstar documentation.
-
-Backup your original save file.
-
-Replace the existing save with the downloaded modded save.
-
-Place the version.dll file into your GTA 5 directory.
-
-Launch GTA 5 and enjoy!
-
-Disclaimer
-
-This modded save file is provided for educational and backup purposes only. Using modded saves in GTA Online may result in bans or penalties from Rockstar Games. Use at your own risk!
-
-Support
-
-If you encounter any issues, feel free to open an issue in this repository or contact me directly.
-
-Enjoy your game! 🚀
-
+Viel Spaß beim Spielen! 🚀
