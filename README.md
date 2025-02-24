@@ -1,38 +1,61 @@
-# **GTA 5 Online Modded Save Game**
+# 🎮 **GTA 5 Online – Modded Savegame**  
 
-## **Übersicht**
-Dieses Repository enthält eine modifizierte Spielstand-Datei für **Grand Theft Auto V (GTA 5) Online**. Der Spielstand umfasst einen hochstufigen Charakter mit enormem In-Game-Vermögen.
-
-## **Funktionen**
-- **Level:** Über 2000
-- **Geld:** Über $15 Milliarden
-- **Vollständig freigeschaltet:** Alle Waffen, Fahrzeuge und Immobilien
-- **Exklusive Items:** Seltene und Event-spezifische Unlocks
+Willkommen zum **ultimativen modifizierten Spielstand** für **GTA 5 Online**!  
+Dieser Savegame bringt dir **maximale Ressourcen, exklusive Inhalte und uneingeschränkten Zugriff** auf alle Features des Spiels.  
 
 ---
 
-## **Installationsanleitung**
-1. Lade die Spielstand-Datei von diesem Repository herunter.
-2. Finde das Verzeichnis deines GTA 5-Spielstands:
-   - **Für Rockstar Games:**  
-     `C:\Program Files\Rockstar Games\Grand Theft Auto V`
-   - **Für Steam und Epic Games:**  
-     Der Pfad kann variieren, siehe Rockstar-Dokumentation.
-3. Sichere deinen Original-Spielstand.
-4. Ersetze den bestehenden Spielstand mit der heruntergeladenen modifizierten Datei.
-5. Platziere die Datei `version.dll` in deinem GTA 5-Verzeichnis.
-6. Starte GTA 5 und viel Spaß!
+## 🚀 **Features auf einen Blick**  
+
+✔ **Level:** 2000+  
+💰 **Geld:** $15 Milliarden (Standard) / **1 Billion mit `version.dll V2`**  
+🔓 **Freigeschaltet:** Alle Waffen, Fahrzeuge und Immobilien  
+🎁 **Exklusive Inhalte:** Seltene & Event-spezifische Unlocks  
 
 ---
 
-## **Haftungsausschluss**
-Diese modifizierte Spielstand-Datei wird **nur zu Bildungs- und Sicherungszwecken** bereitgestellt.  
-Die Verwendung von modifizierten Spielständen in GTA Online kann zu Sperrungen oder Strafen durch Rockstar Games führen.  
-**Benutze sie auf eigenes Risiko!**
+## 🛠 **Installation – Schritt für Schritt**  
 
----
+### **1️⃣ Spielstand & Datei herunterladen**  
+📥 Lade die modifizierte **Savegame-Datei** herunter.  
+📂 Wähle die passende `version.dll`:  
+- 🟢 **Standard:** `$15 Milliarden`  
+- 🔵 **Erweitert:** `1 Billion` (**version.dll V2**)  
 
-## **Support**
-Falls du auf Probleme stößt, öffne ein Ticket im Repository oder kontaktiere mich direkt.
+### **2️⃣ Speicherort finden**  
+Navigiere zum Installationsverzeichnis deines **GTA 5** Spiels:  
 
-Viel Spaß beim Spielen! 🚀
+#### 🎮 **Rockstar Games:**  
+    ```bash
+    C:\Program Files\Rockstar Games\Grand Theft Auto V
+
+#### 🎮 **Steam & Epic Games:**
+    ```bash
+    C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V
+
+## **3️⃣ Backup erstellen**
+🛑 Bevor du fortfährst: Erstelle eine Sicherung deines ursprünglichen Spielstands, um Datenverlust zu vermeiden.
+
+## **4️⃣ Dateien ersetzen**
+♻ Ersetze die Original-Datei mit der heruntergeladenen modifizierten Savegame-Datei.
+
+## **5️⃣ version.dll einfügen**
+📌 Platziere die gewünschte version.dll Datei im GTA 5-Verzeichnis.
+
+## **6️⃣ Spiel starten**
+🚀 Starte GTA 5 und genieße die neuen Features!
+
+## **⚠ Haftungsausschluss**
+🔴 Wichtiger Hinweis:
+Diese modifizierte Spielstand-Datei dient ausschließlich zu Bildungs- und Sicherungszwecken.
+
+## **🚨 Risiken:**
+Die Verwendung von modifizierten Spielständen in GTA Online kann zu Sperrungen oder Strafen durch Rockstar Games führen.
+📛 Nutzung auf eigenes Risiko!
+
+## **📩 Support & Kontakt**
+❓ Fragen oder Probleme?
+📬 Öffne ein Ticket im Repository oder kontaktiere mich direkt.
+
+🔥 Viel Spaß beim Spielen! 🔥
+
